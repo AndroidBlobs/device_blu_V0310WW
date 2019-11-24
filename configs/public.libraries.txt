@@ -1,0 +1,7 @@
+#Chenyee <CY_BSP_CTS> <chenzhen> <20181121> add for CSW1703OTA-264 begin
+#libMcClient.so
+#Chenyee <CY_BSP_CTS> <chenzhen> <20181121> add for CSW1703OTA-264 end
+libMcRegistry.so
+#Chenyee <CY_BSP_MMI> <chengq> <20181009> add for CSW1805A-21 begin
+libhwm.so
+#Chenyee <CY_BSP_MMI> <chengq> <20181009> add for CSW1805A-21 end
